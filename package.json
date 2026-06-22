@@ -1,0 +1,13 @@
+{
+  "name": "demo-slack-summarizer",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "eve dev",
+    "deploy": "eve deploy"
+  },
+  "dependencies": {
+    "eve": "latest",
+    "zod": "^4"
+  }
+}
